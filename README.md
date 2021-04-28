@@ -7,4 +7,4 @@ i'm currently...
 - 👯 trying to help on github.com/HGLabor/HGLaborKitAPI2.0
 
 - 📫 Discord: Indikativ#5641
-- ⚡ Fun fact: "Indikativ" comes from Latin and means: to report, to show
+- ⚡ Fun fact: "Indikativ" (or indicare) comes from Latin and means: to report, to show
