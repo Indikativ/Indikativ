@@ -2,7 +2,7 @@
 Hey there 👋
 
 i'm currently...
-- 👀 working on a game and java
+- 👀 working on a game and java, kotlin
 - 🌱 learning kotlin
 - 👯 trying to help on github.com/HGLabor
 
