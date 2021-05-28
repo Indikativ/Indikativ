@@ -1,5 +1,5 @@
 
-Hey there 👋
+Hey there my name ist Maxim 👋
 
 i'm currently...
 - 👀 working on a game and java, kotlin
