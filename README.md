@@ -1,8 +1,7 @@
 
 Hey
 
-currently making a game,
-trying to help on https://github.com/HGLabor (minecraft server is currently down; may be outdated xd)
+currently making a game
 and learning kotlin
 
 - 📫 Discord: Indikativ#5641
